@@ -29,7 +29,7 @@ Dataset ini terdiri dari 21 kolom, penjelasan setiap kolomnya secara berurutan s
 Setup
 Untuk menjalankan kode di repositori ini, harus menginstal Python libraries berikut:
 
-pandas
-numpy
-scikit-learn
-plotly
+1. Pandas
+2. Numpy
+3. Scikit-learn
+4. Plotly
